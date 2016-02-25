@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./naturalhistory07plinuoft_0592.png"; bbox 0 0 1459 2288; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 99 94 1290 161">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 99 94 1290 161">
+     <span class='ocr_line' id='line_1_1' title="bbox 99 94 1290 161; baseline -0.005 -1"><span class='ocrx_word' id='word_1_1' title='bbox 99 102 267 161; x_wconf 70' lang='lat' dir='ltr'><em>Other</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 304 100 523 159; x_wconf 76' lang='lat' dir='ltr'>authors</span> <span class='ocrx_word' id='word_1_3' title='bbox 560 98 676 157; x_wconf 79' lang='lat' dir='ltr'>who</span> <span class='ocrx_word' id='word_1_4' title='bbox 712 121 805 158; x_wconf 78' lang='lat' dir='ltr'>are</span> <span class='ocrx_word' id='word_1_5' title='bbox 839 94 1128 157; x_wconf 81' lang='lat' dir='ltr'><em>connected</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1160 94 1290 154; x_wconf 78' lang='lat' dir='ltr'>with</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 160 194 1220 283">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 160 194 1220 283">
+     <span class='ocr_line' id='line_1_2' title="bbox 160 194 1220 283; baseline -0.007 -24"><span class='ocrx_word' id='word_1_7' title='bbox 160 198 384 259; x_wconf 74' lang='lat' dir='ltr'>nasum]</span> <span class='ocrx_word' id='word_1_8' title='bbox 419 198 619 283; x_wconf 80' lang='lat' dir='ltr'>history</span> <span class='ocrx_word' id='word_1_9' title='bbox 656 207 712 255; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_10' title='bbox 750 196 838 255; x_wconf 77' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_11' title='bbox 878 194 1015 255; x_wconf 86' lang='lat' dir='ltr'><em>Loeb</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1050 196 1220 254; x_wconf 79' lang='lat' dir='ltr'><strong><em>Series</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 115 547 1278 1622">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 115 547 1278 1622">
+     <span class='ocr_line' id='line_1_3' title="bbox 355 547 1034 630; baseline -0.006 0"><span class='ocrx_word' id='word_1_13' title='bbox 355 547 1034 630; x_wconf 82' lang='lat' dir='ltr'>ARISTOTLE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 203 742 1190 828; baseline -0.003 0"><span class='ocrx_word' id='word_1_14' title='bbox 203 742 1190 828; x_wconf 77' lang='lat' dir='ltr'>THEOPHRASTUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 542 943 864 1026; baseline -0.009 0"><span class='ocrx_word' id='word_1_15' title='bbox 542 943 864 1026; x_wconf 85' lang='lat' dir='ltr'>CATO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 115 1137 1278 1250; baseline -0.005 -25"><span class='ocrx_word' id='word_1_16' title='bbox 115 1144 546 1225; x_wconf 83' lang='lat' dir='ltr'>VARRO</span> <span class='ocrx_word' id='word_1_17' title='bbox 601 1137 746 1250; x_wconf 81' lang='lat' dir='ltr'>(de</span> <span class='ocrx_word' id='word_1_18' title='bbox 792 1170 882 1221; x_wconf 82' lang='lat' dir='ltr'>re</span> <span class='ocrx_word' id='word_1_19' title='bbox 930 1142 1278 1250; x_wconf 81' lang='lat' dir='ltr'><strong>rustica)</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 494 1339 908 1421; baseline -0.007 0"><span class='ocrx_word' id='word_1_20' title='bbox 494 1339 908 1421; x_wconf 89' lang='lat' dir='ltr'>VIRGIL</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 321 1537 1084 1622; baseline -0.009 0"><span class='ocrx_word' id='word_1_21' title='bbox 321 1537 1084 1622; x_wconf 83' lang='lat' dir='ltr'><strong>COLUMELLA</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
